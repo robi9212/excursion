@@ -11,13 +11,15 @@ body {
     color:#ffffff;
 }
 .header--secondary {
-    color: white;
     font-weight: 300;
     font-size: 42px;
+    color: white;
+    
 }
 .header--sub_header{
-    color: gray;
     font-size: 21px;
+    color: gray;
+    
 }   
 /* Links */
 .link--cta {
@@ -25,7 +27,7 @@ body {
     color: aquamarine;   
 }
 /* footer */
-.footer--copytight{
+.footer--copyright{
     font-size: 21px;
     color: gray;
     text-align: right;
